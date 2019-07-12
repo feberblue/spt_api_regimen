@@ -1,7 +1,7 @@
 module.exports = {
     "enviroment": "local_dev",
     "jwt_secure": {
-        "secret": "$-*S4lud4ar4t0dos_?*$",
+        "secret": "",
         "expiredTime": 900
     },
     "headers": {
